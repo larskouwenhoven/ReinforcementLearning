@@ -1,2 +1,1 @@
-All code is included in the iPython notebook this time. 
-If using Google Colab, all the relevant sections will be displayed on the left. 
+See the PDF document for the report of this assignment, and the iPython Notebook for the actual code.
